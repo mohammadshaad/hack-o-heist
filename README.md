@@ -1,1 +1,2 @@
-# hack-o-heist
+# HACK-O-HEIST
+
