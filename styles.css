@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: rgb(219, 70, 70);
+}
+
+#home:hover {
+    color: rgb(129, 190, 29);
+}
+
+#photohome {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cardhome, #keyfactsl{
+    font-size: 1.2rem;
+}
+
+#app{
+    padding-left: 10px;
+
+}
